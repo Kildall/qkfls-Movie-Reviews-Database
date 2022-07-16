@@ -1,5 +1,5 @@
 ---
 applications:
- - name: final-proj-kildall-1
+ - name: final-proj-kildall
    random-route: false
    memory: 128M
